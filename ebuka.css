@@ -1,0 +1,93 @@
+/* Styling for the body */
+
+body{
+    background-color: bisque;
+}
+
+/* Styling for Cloudinary Image */
+
+img{
+    border: 1px coral;
+    border-radius: 30px;
+    max-width: 100%;
+}
+
+/* Styling for my name */
+
+h1{
+    color: chocolate;
+    font-size: 50px;
+    word-spacing: 20px;
+}
+
+/* Styling for all horizontal lines */
+
+hr{
+    border: 1px solid coral;
+}
+
+/* Styling for my email */
+
+a{
+    text-decoration: none;
+    color: #a36245;
+}
+
+a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: burlywood;
+}
+
+a:active{
+    text-decoration: none;
+    color: crimson;
+}
+
+/* Styling for all other headings in the CV*/
+
+h3{
+    padding: 20px;
+    margin: 40px 0px 40px;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: #a36245;
+}
+
+/* Styling for all tables */
+
+table{
+    border: 1px solid coral;
+}
+
+tr{
+    border: 1px coral;
+    background-color:antiquewhite;
+}
+
+td{
+   font-family:sans-serif;
+}
+
+/* Styling for all table headings */
+
+#table-heading{
+    font-family:cursive;
+    font-style: oblique;
+    color: #a36245;
+    text-transform: uppercase;
+
+}
+
+/* Styling for all dates in tables */
+
+.date{
+    font-family: monospace;
+}
+
+/* Styling for skill heading */
+
+#skills{
+    padding-bottom: 0;
+}
+
